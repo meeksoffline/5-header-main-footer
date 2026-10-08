@@ -1,0 +1,66 @@
+html {
+    background-color:rgb(206, 226, 245);
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+.page-name {
+margin: 0;
+}
+
+.site-header {
+    background-color: rgb(84, 122, 218);
+    color:white;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.branded-border {
+    border-bottom: 5px dotted white;
+    padding-bottom: 10px;
+}
+
+.main-content {
+    background-color: lightblue;
+    color:black;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+.site-footer {
+    background-color:tomato;
+    color:white;
+    padding: 20px;
+}
+
+.viburnums-header {
+    background-color: cornflowerblue;
+    color:white;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+.viburnums-address {
+    color:rgb(1, 100, 192);
+}
+
+.nav-links {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    padding: 2px;
+}
+
+.nav-links:visited {
+    color: rgb(42, 48, 165);
+}
+
+.nav-links:hover {
+    color: blueviolet;
+    font-size: large;
+}

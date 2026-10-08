@@ -1,0 +1,47 @@
+html {
+    background-color:rgb(244, 242, 205);
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+.main-header {
+    background-color: rgb(54, 56, 41);
+    color:aliceblue;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.uwm-links {
+    color:darkkhaki
+}
+
+.uwm-main {
+    background-color:darkkhaki;
+    color: white;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.uwm-footer {
+    background-color:rgb(79, 62, 41);
+    padding: 20px;
+    color: white;
+}
+
+.footer-links {
+    color:darkkhaki;
+}
+
+.in-text-links {
+    color:rgb(54, 56, 41);
+}
